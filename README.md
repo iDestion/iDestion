@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @iDestion
+- 👀 I’m interested in web development (basic html5/css/php, JSP), programming (C#, Java, Python), gaming
+- 🌱 I’m currently studying to become a Master in Business Informatics.
